@@ -1,5 +1,5 @@
 {
-  "name": "react-native-responsive",
+  "name": "react-native-responsive-design-amar",
   "version": "1.0.0",
   "description": "Get responsive height and width based on the window dimenstion",
   "main": "index.ts",
@@ -16,3 +16,4 @@
     "react-native": "^0.68.1"
   }
 }
+
